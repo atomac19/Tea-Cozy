@@ -80,7 +80,7 @@
   /* Section Mission */
   
   #mission {
-      background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*e7mdfs*_gcl_aw*R0NMLjE3MzY5Mjg5MTQuQ2owS0NRaUExcDI4QmhDQkFSSXNBRFA5SHJNUzMyU2Vta3QwQ0RCUC1VejRlYXhOMUItMnBvNkE4aVBkV0R3Zk1udGVLcldnZVZEQ2tCZ2FBaVNWRUFMd193Y0I.*_gcl_au*MTU2MjUwMzcxMy4xNzM0ODg2MTA3*_ga*Mjg1NzczMTYxLjE3MzQ4ODYwOTg.*_ga_3LRZM6TM9L*MTc0MjMwNjU2MC4xMTguMS4xNzQyMzA2NzI2LjYwLjAuMA..");
+      background-image: url("images/img-tea-cozy-logo.png");
       background-color: black; /* used if the image is unavailable */
       height: 700px; /* we must set a specified height */
       width: 1200px;
@@ -136,7 +136,7 @@
   /* Section locations */
   
   #locations {
-      background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*cjasrj*_gcl_aw*R0NMLjE3MzY5Mjg5MTQuQ2owS0NRaUExcDI4QmhDQkFSSXNBRFA5SHJNUzMyU2Vta3QwQ0RCUC1VejRlYXhOMUItMnBvNkE4aVBkV0R3Zk1udGVLcldnZVZEQ2tCZ2FBaVNWRUFMd193Y0I.*_gcl_au*MTA0ODgzMzg1Mi4xNzQyNjY1MTA1*_ga*Mjg1NzczMTYxLjE3MzQ4ODYwOTg.*_ga_3LRZM6TM9L*MTc0MjkyNzIyMC4xNDYuMS4xNzQyOTI3MjY3LjEzLjAuMA..");
+      background-image: url("images/img-locations-background.jpg");
       background-position: center; /* center the image */
       background-repeat: no-repeat; /* do not repeat the image */
       background-size: cover; /* resize the background image to cover the entire container */
